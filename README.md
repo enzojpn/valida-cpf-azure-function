@@ -11,7 +11,7 @@ Este projeto implementa uma Azure Function em C# para validar números de CPF (C
 
 ## Configuração do Projeto
 
-1. **Crie um novo projeto Azure Functions:**
+1. **startar o projeto Azure Functions:**
 
    ```bash
-   func init MyFunctionApp --dotnet
+   func start
